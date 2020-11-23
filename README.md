@@ -1,4 +1,4 @@
-### Hey, Charlotte here! ![](wave.gif)
+### Hey, Charlotte here! <img src="wave.gif" width="30px">
 
 👏 Welcome to my profile.
 
