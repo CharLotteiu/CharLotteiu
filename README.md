@@ -1,12 +1,15 @@
-### Hey, Charlotte here! <img src="wave.gif" width="30px">
+## Hey！Charlotte here <img src="wave.gif" width="30px">
 
-👏 Welcome to my profile. <img src="https://visitor-badge.glitch.me/badge?page_id=CharLotteiu.CharLotteiu" alt="visitor badge">
+<p><img src="http://views.whatilearened.today/views/github/CharLotteiu/views.svg"/></p>
+
+👏 Welcome to my profile.
 
 - 🔭 I’m currently working on bilingual technical documentation and developing useful gadget.
 - 🌱 I’m currently learning React and VS Code extension development.
 
 ![](https://github-readme-stats.vercel.app/api?username=CharLotteiu)
 
+### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
