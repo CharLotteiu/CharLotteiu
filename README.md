@@ -1,6 +1,6 @@
-### Hey, Charlotte here! 👋
+### Hey, Charlotte here! ![](wave.gif)
 
-Welcome to my profile. 👏
+👏 Welcome to my profile.
 
 - 🔭 I’m currently working on bilingual technical documentation and developing useful gadget.
 - 🌱 I’m currently learning React and VS Code extension development.
