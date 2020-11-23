@@ -1,13 +1,14 @@
 ## Hey！Charlotte here <img src="wave.gif" width="30px">
 
-<p><img src="http://views.whatilearened.today/views/github/CharLotteiu/views.svg"/></p>
+<p>
+<img src="http://views.whatilearened.today/views/github/CharLotteiu/views.svg"/>
+<img src="https://wakatime.com/badge/github/CharLotteiu/My-Blog.svg"/>
+</p>
 
 👏 Welcome to my profile.
 
 - 🔭 I’m currently working on bilingual technical documentation and developing useful gadget.
 - 🌱 I’m currently learning React and VS Code extension development.
-
-![](https://github-readme-stats.vercel.app/api?username=CharLotteiu)
 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
@@ -15,6 +16,10 @@
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+### 👨‍💻 Open source work stats
+
+![](https://github-readme-stats.vercel.app/api?username=CharLotteiu)
 
 <!--
 **CharLotteiu/CharLotteiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
