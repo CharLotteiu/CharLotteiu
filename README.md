@@ -1,6 +1,6 @@
 ### Hey, Charlotte here! <img src="wave.gif" width="30px">
 
-👏 Welcome to my profile.
+👏 Welcome to my profile. <img src="https://visitor-badge.glitch.me/badge?page_id=CharLotteiu.CharLotteiu" alt="visitor badge">
 
 - 🔭 I’m currently working on bilingual technical documentation and developing useful gadget.
 - 🌱 I’m currently learning React and VS Code extension development.
