@@ -1,8 +1,7 @@
-## Hey！Charlotte here <img src="wave.gif" width="30px">
+## Hey, Charlotte here! <img src="wave.gif" width="30px">
 
 <p>
 <img src="http://views.whatilearened.today/views/github/CharLotteiu/views.svg"/>
-<img src="https://wakatime.com/badge/github/CharLotteiu/My-Blog.svg"/>
 </p>
 
 👏 Welcome to my profile.
@@ -13,13 +12,13 @@
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Markdown   14 mins         ████████████████████████▓   98.00 % 
+Markdown   14 mins         ████████████████████████▓   98.00 %
 ```
 <!--END_SECTION:waka-->
 
 ### 👨‍💻 Open source work stats
 
-![](https://github-readme-stats.vercel.app/api?username=CharLotteiu)
+![](https://github-readme-stats.vercel.app/api?username=CharLotteiu&theme=flag-india)
 
 <!--
 **CharLotteiu/CharLotteiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
