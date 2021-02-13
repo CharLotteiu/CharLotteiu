@@ -12,8 +12,7 @@
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Markdown   3 hrs 10 mins   ███████████████████▒░░░░░   77.18 % 
-YAML       56 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.82 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
