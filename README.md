@@ -6,6 +6,7 @@
 
 👏 Welcome to my profile.
 
+- 👩🏻‍🎓 I'm currently doing the MSc in Translation Technology in 🇨🇮 Dublin City University.
 - 🔭 I’m currently working on bilingual technical documentation and developing useful gadget.
 - 🌱 I’m currently learning React and VS Code extension development.
 
