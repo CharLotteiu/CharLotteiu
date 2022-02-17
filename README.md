@@ -13,6 +13,8 @@
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
+Total: 7 mins
+
 Python   7 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
