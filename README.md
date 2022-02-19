@@ -13,9 +13,7 @@
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Total: 0 secs
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
