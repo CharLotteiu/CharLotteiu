@@ -1,4 +1,4 @@
-## Hey, Charlotte here! <img src="wave.gif" width="30px">
+## Hey, Lingling (Charlotte) here! <img src="wave.gif" width="30px">
 
 <p>
 <img src="http://views.whatilearened.today/views/github/CharLotteiu/views.svg"/>
@@ -6,9 +6,9 @@
 
 👏 Welcome to my profile.
 
-- 👩🏻‍🎓 I'm currently doing the MSc in Translation Technology in 🇨🇮 Dublin City University.
-- 🔭 I’m currently working on bilingual technical documentation and developing useful gadget.
-- 🌱 I’m currently learning React and VS Code extension development.
+- 👩🏻‍🎓 I have recently graduated from 🇨🇮 Dublin City University in MSc Translation Technology with the **first class honour**.
+- 🔭 I’m currently looking for opportunities to work as a **Content Strategist/Technical Writer/Localisation Product Manager**.
+- 🌱 I’m currently learning UX wirting, Web3 and Dutch.
 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
